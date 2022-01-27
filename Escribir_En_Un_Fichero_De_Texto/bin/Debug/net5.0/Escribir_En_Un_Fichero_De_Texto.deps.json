@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Escribir_En_Un_Fichero_De_Texto/1.0.0": {
+        "runtime": {
+          "Escribir_En_Un_Fichero_De_Texto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escribir_En_Un_Fichero_De_Texto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
